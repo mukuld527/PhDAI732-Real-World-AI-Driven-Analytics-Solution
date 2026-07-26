@@ -1,4 +1,4 @@
-# Machine-Learning-on-Movie-Reviews-IMDB
+# AI Recommendation System (Machine-Learning-on-Movie-Reviews-IMDB)
 ## Dataset — 50k-reviews
 
 ### Objective  
